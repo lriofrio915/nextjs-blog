@@ -21,9 +21,9 @@ export default function Home({allPostsData}) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello, I&aposm Luis. I&aposm a developer and investor.</p>
+        <p>Hello, I&apos;m Luis. I&apos;m a developer and investor.</p>
         <p>
-          Este es un ejemplo de página web con componentes - you&aposll be building a site like this on{' '}
+          Este es un ejemplo de página web con componentes - you&apos;ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.
         </p>
       </section>
